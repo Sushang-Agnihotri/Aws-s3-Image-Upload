@@ -1,8 +1,8 @@
 import boto3
 from botocore.client import Config
 
-ACCESS_KEY_ID = 'AKIAUD5IBRIRYER2PMGO'
-ACCESS_SECRET_KEY = 'uE9JNfIA/pjG2kdrigWrQ9wgcTSwB4y2slLXyYgy'
+ACCESS_KEY_ID = 'Your-ACCESS_KEY_ID'
+ACCESS_SECRET_KEY = 'Your-ACCESS_SECRET_KEY'
 BUCKET_NAME = 'python-image-upload'
 
 
